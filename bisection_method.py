@@ -20,7 +20,7 @@ def bisection(a,b):
       
 # Driver code 
 
-a = int(input("enetr lower inital value :-> "))
-b = int(input("enetr upper intial value :-> "))
+a = int(input("enter lower inital value :-> "))
+b = int(input("enter upper intial value :-> "))
 print()
 print(bisection(a, b))
